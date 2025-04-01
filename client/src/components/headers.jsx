@@ -1,5 +1,44 @@
 import React from "react";
 
+// Removing api/sample.json
+// Removing client/public/blue1.jpg
+// Removing client/public/blue2.jpg
+// Removing client/public/blue3.jpg
+// Removing client/public/blue4.jpg
+// Removing client/public/blue5.jpg
+// Removing client/public/blue6.jpg
+// Removing client/public/blue7.jpg
+// Removing client/public/blue8.jpg
+// Removing client/public/blue9.jpg
+// Removing client/public/bus1.jpg
+// Removing client/public/bus2.jpg
+// Removing client/public/bus3.jpg
+// Removing client/public/flight1.jpg
+// Removing client/public/flight2.jpg
+// Removing client/public/flight3.jpg
+// Removing client/public/flight4.jpg
+// Removing client/public/holidays1.jpg
+// Removing client/public/holidays2.jpg
+// Removing client/public/holidays3.jpg
+// Removing client/public/hotel1.jpg
+// Removing client/public/hotel2.jpg
+// Removing client/public/hotel3.jpg
+// Removing client/public/nature.jpg
+// Removing client/public/nature1.jpg
+// Removing client/public/train1.jpg
+// Removing client/public/train2.jpg
+// Removing client/public/train3.jpg
+// Removing client/src/assets/Exchange01Icon.tsx
+// Removing client/src/assets/image.png
+// Removing client/src/components/GoogleAuth.jsx
+// Removing client/src/components/editPhone.jsx
+// Removing client/src/components/editUser.jsx
+// Removing client/src/components/login.jsx
+// Removing client/src/components/privateRoute.jsx
+// Removing client/src/firebase.js
+// Removing client/src/stateContext.jsx
+// Removing eslint.config.js
+
 function Headers() {
   return (
     <div className="flex flex-row justify-around bg-[#F5EFE7] pt-3">
